@@ -1,1 +1,7 @@
 fastapi
+uvicorn
+pydantic
+scikit-image 
+opencv-python 
+numpy
+pillow
